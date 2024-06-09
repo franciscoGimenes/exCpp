@@ -37,7 +37,7 @@ int main()
         cout << "\nNumero " << i;
     }
 
-    cout << "\n\nExercicio 6: positivo ou negativo?";
+    cout << "\n\nExercicio 6: positivo ou negativo?\n";
     for (int i = 1; i <= 5; i++) {
         int numPON;
         cout << "Escolha um numero: ";
